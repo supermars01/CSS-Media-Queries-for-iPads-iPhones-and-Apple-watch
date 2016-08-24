@@ -1,0 +1,38 @@
+/**iPhone 4/4S - 3.5 inch portrait **/
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) and (orientation:portrait){/*Style goes here*/}
+
+/**iPhone 5/5S  inch portrait **/
+@media screen and (device-aspect-ratio: 40/71) and (orientation: portrait){/*Style goes here*/}
+
+/**iPhone 6/6S 4.7 portrait **/
+@media only screen and (min-width: 375px) and (max-width: 667px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2){/*Style goes here*/}
+
+/**iPhone 6/6S Plus 5.5 portrait **/
+@media only screen and (min-width: 414px) and (max-width: 736px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 3){/*Style goes here*/}
+
+/**iPhone 4/4S landscape **/
+@media only screen and (min-device-width: 320px)  and (max-device-width: 480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) and (orientation:landscape){/*Style goes here*/}
+
+/** iPhone 5/5S landscape **/
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {/*Style goes here*/}
+
+/** iPhone 6/6S landscape **/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2){/*Style goes here*/}
+
+/***iPhone 6/6S Plus landscape **/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 3){/*Style goes here*/} 
+
+/**iPad 9.7inch portrait **/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:portrait) {/*Style goes here*/}
+
+/** iPad 9.7inch landscape **/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation:landscape) {/*Style goes here*/}
+
+/** iPad Pro 12.9 inch portrait **/
+@media only screen  and (min-device-width : 1024px) and (max-device-width : 1366px) and (orientation:portrait){/*Style goes here*/}
+
+/**iPad Pro 12.9 inch landscape **/
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) and (orientation:landscape){/*Style goes here*/}
+
+/** Apple Watch**/
+@media(max-device-width: 42mm)and (min-device-width: 38mm){/*Style goes here*/}
